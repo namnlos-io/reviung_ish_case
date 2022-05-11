@@ -1,4 +1,4 @@
-# 3D-printed case for thhe reviung_ish keyboard
+# A 3D-printed case for thhe reviung_ish keyboard
 
 A 3D-printed case for the "reviung_ish" keyboard by @fredbabe: <https://github.com/fredbabe/reviung_ish_pcb>.
 
